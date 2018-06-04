@@ -13,7 +13,7 @@ print(min(23,34,5,42,3,5465,3,4,-2,-5))
 
 #product
 
-product = 1              
+product = 1
 list = [1, 2, 3]
 for x in list:
     product *= x
