@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb8c14dc-9363-4566-b766-25d579a01c21" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/a.6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ass_8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,20 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="a.6.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/a.6.py">
+      <file leaf-file-name="ass_8.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ass_8.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1029">
-              <caret lean-forward="true" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="a.7.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/a.7.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1" selection-start-column="1" selection-end-column="1" />
+            <state relative-caret-position="267">
+              <caret line="124" column="17" lean-forward="true" selection-start-line="124" selection-start-column="17" selection-end-line="124" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -61,10 +51,11 @@
         <option value="$PROJECT_DIR$/a.5.py" />
         <option value="$PROJECT_DIR$/a.6.py" />
         <option value="$PROJECT_DIR$/a.7.py" />
+        <option value="$PROJECT_DIR$/ass_8.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="33" />
     <option name="width" value="1346" />
     <option name="height" value="728" />
@@ -75,7 +66,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -87,6 +77,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="RecentsManager">
@@ -106,25 +97,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.a.7">
-    <configuration name="2.1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ass_no-3" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.ass_8">
     <configuration name="a.4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ass_no-3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -197,20 +170,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="ass_8" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ass_no-3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ass_8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.2.1" />
       <item itemvalue="Python.a.4" />
       <item itemvalue="Python.a.5" />
       <item itemvalue="Python.a.7" />
       <item itemvalue="Python.a.6" />
+      <item itemvalue="Python.ass_8" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ass_8" />
         <item itemvalue="Python.a.7" />
         <item itemvalue="Python.a.6" />
         <item itemvalue="Python.a.5" />
         <item itemvalue="Python.a.4" />
-        <item itemvalue="Python.2.1" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +219,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="33" y="0" width="1346" height="728" extended-state="0" />
+    <frame x="33" y="0" width="1346" height="728" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -236,7 +227,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32881355" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26949152" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -254,6 +245,20 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/a.6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a.7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/a.6.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -354,6 +359,11 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/a.6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-238" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/a.7.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -361,10 +371,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/a.6.py">
+    <entry file="file://$PROJECT_DIR$/ass_8.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1029">
-          <caret lean-forward="true" />
+        <state relative-caret-position="267">
+          <caret line="124" column="17" lean-forward="true" selection-start-line="124" selection-start-column="17" selection-end-line="124" selection-end-column="17" />
         </state>
       </provider>
     </entry>
