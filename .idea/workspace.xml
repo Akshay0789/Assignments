@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb8c14dc-9363-4566-b766-25d579a01c21" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/ass_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ass_10.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ass_9.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ass_9.py">
+      <file leaf-file-name="ass_10.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ass_10.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
+            <state relative-caret-position="17">
+              <caret line="22" column="34" lean-forward="true" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -53,10 +53,11 @@
         <option value="$PROJECT_DIR$/a.7.py" />
         <option value="$PROJECT_DIR$/ass_8.py" />
         <option value="$PROJECT_DIR$/ass_9.py" />
+        <option value="$PROJECT_DIR$/ass_10.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="33" />
     <option name="width" value="1346" />
     <option name="height" value="728" />
@@ -98,25 +99,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ass_9">
-    <configuration name="a.5" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ass_no-3" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Akshay\PycharmProjects\ass_no-3\a.6.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.ass_10">
     <configuration name="a.6" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ass_no-3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,6 +131,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/a.7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="ass_10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ass_no-3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ass_10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,19 +191,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.a.5" />
       <item itemvalue="Python.a.7" />
       <item itemvalue="Python.a.6" />
       <item itemvalue="Python.ass_8" />
       <item itemvalue="Python.ass_9" />
+      <item itemvalue="Python.ass_10" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ass_10" />
         <item itemvalue="Python.ass_9" />
         <item itemvalue="Python.ass_8" />
         <item itemvalue="Python.a.7" />
         <item itemvalue="Python.a.6" />
-        <item itemvalue="Python.a.5" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +221,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="33" y="0" width="1346" height="728" extended-state="1" />
+    <frame x="33" y="0" width="1346" height="728" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -395,6 +396,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ass_10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="22" column="34" lean-forward="true" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
         </state>
       </provider>
     </entry>
