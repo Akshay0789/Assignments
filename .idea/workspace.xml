@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb8c14dc-9363-4566-b766-25d579a01c21" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/ass_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ass_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ass_13.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,11 +15,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ass_11.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ass_11.py">
+      <file leaf-file-name="ass_12.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ass_12.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ass_13.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ass_13.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+              <caret line="30" selection-start-line="30" selection-end-line="33" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -55,10 +65,12 @@
         <option value="$PROJECT_DIR$/ass_9.py" />
         <option value="$PROJECT_DIR$/ass_10.py" />
         <option value="$PROJECT_DIR$/ass_11.py" />
+        <option value="$PROJECT_DIR$/ass_12.py" />
+        <option value="$PROJECT_DIR$/ass_13.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="33" />
     <option name="width" value="1346" />
     <option name="height" value="728" />
@@ -100,25 +112,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ass_11">
-    <configuration name="a.7" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ass_no-3" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/a.7.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.ass_13">
     <configuration name="ass_10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ass_no-3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,7 +149,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="ass_8" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ass_12" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ass_no-3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -167,7 +161,25 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ass_8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ass_12.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="ass_13" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ass_no-3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ass_13.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,19 +204,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.a.7" />
-      <item itemvalue="Python.ass_8" />
       <item itemvalue="Python.ass_9" />
       <item itemvalue="Python.ass_10" />
       <item itemvalue="Python.ass_11" />
+      <item itemvalue="Python.ass_13" />
+      <item itemvalue="Python.ass_12" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ass_13" />
+        <item itemvalue="Python.ass_12" />
         <item itemvalue="Python.ass_11" />
         <item itemvalue="Python.ass_10" />
         <item itemvalue="Python.ass_9" />
-        <item itemvalue="Python.ass_8" />
-        <item itemvalue="Python.a.7" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +234,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24330357" />
@@ -253,6 +265,20 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ass_12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ass_13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ass_10.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -425,6 +451,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ass_12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ass_13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="30" selection-start-line="30" selection-end-line="33" selection-end-column="12" />
         </state>
       </provider>
     </entry>
